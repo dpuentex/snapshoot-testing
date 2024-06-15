@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GitHubCard renders correctly 1`] = `
+<div
+  className="card"
+  style={
+    Object {
+      "width": "18rem",
+    }
+  }
+>
+  <img
+    alt="Your Name"
+    className="card-img-top"
+    src="your-photo-url"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Your GitHub Username
+    </div>
+    <p
+      className="card-text"
+    >
+      A brief blurb about you. This can be anything like your interests, what you do, etc.
+    </p>
+  </div>
+</div>
+`;
